@@ -7,7 +7,7 @@ from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import StandardScaler
 
 
-path = "../images/views/IMG_9023.jpeg"
+path = "../images/views/IMG_9424.JPG"
 filename = "../images/database/4810201015620/4810201015620_keypoints.txt"
 
 image = (cv2.imread(path))
